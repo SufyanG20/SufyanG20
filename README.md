@@ -12,10 +12,11 @@
 
 <h3 align="center">2nd Year CS @ TMU</h3>
 
+<p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%"/></p>
 
 ### About Me:
 
-- 🔭 I'm currently working on a portfolio website
+- 🔭 I'm currently working on a **portfolio website**
 - 🌱 I’m currently learning **React**
 - 📫 You can reach me at **sufyan.ghani820@gmail.com**
 
@@ -34,4 +35,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
+---
+  
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SufyanG20&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SufyanG20&layout=compact&theme=vision-friendly-dark)(https://github.com/anuraghazra/github-readme-stats) -->
+  
   
