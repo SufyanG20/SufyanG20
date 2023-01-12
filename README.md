@@ -8,16 +8,20 @@
     </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Sufyan</h1>
+<h1 align="center">Hi 👋, I'm Sufyan Ghani</h1>
 
-<h3 align="center">2nd Year CS @ TMU</h3>
+<h3 align="center">2nd Year CS Student @ TMU</h3>
 
 <p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%"/></p>
+
+<p>
+  Hey, I'm Sufyan 🦾! I'm currently interested in Full Stack development using React and Node.js.
+</p>
 
 ### About Me:
 
 - 🔭 I'm currently working on a **portfolio website**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **GIT**
 - 📫 You can reach me at **sufyan.ghani820@gmail.com**
 
 ---
