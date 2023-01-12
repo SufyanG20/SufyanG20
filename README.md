@@ -7,3 +7,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
+
+<div id="views-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=SufyanG20&style=flat-square&color=orange" alt="Profile-Views"/>
+</div>
