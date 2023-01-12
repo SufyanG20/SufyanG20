@@ -12,8 +12,6 @@
 
 <h3 align="center">2nd Year CS Student @ TMU</h3>
 
-<p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%"/></p>
-
 <p>
   Hey, I'm Sufyan 🦾! I'm currently interested in Full Stack development using React and Node.js.
 </p>
