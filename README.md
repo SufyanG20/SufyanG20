@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @SufyanG20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SufyanG20/SufyanG20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="icon" align="center">
+  <img src="https://media2.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif?cid=ecf05e47a99j97susf8esbv45uz4kljd8ngto835b0l0vtfb&rid=giphy.gif&ct=s" width="100"/>
+</div>
