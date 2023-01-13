@@ -10,16 +10,13 @@
 
 <h1 align="center">Hi 👋, I'm Sufyan Ghani</h1>
 
-<h3 align="center">2nd Year CS Student @ TMU</h3>
-
-<p>
-  Hey, I'm Sufyan 🦾! I'm currently interested in Full Stack development using React and Node.js.
-</p>
+<h3 align="center">2nd Year CS Student @ TMU🦾</h3>
 
 ### About Me:
 
-- 🔭 I'm currently working on a **portfolio website**
-- 🌱 I’m currently learning **GIT**
+- 🤓 Interested in Full Stack development using React and Node.js.
+- 👨‍💻 Currently working on a **portfolio website**
+- 🌱 Learning how to use **GIT**
 - 📫 You can reach me at **sufyan.ghani820@gmail.com**
 
 ---
