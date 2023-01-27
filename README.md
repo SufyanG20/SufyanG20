@@ -39,7 +39,7 @@
 ### 🔥 &nbsp; My Stats :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SufyanG20&&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="SufyanG20 Stats" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SufyanG20&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SufyanG20&layout=compact&theme=vision-friendly-dark)
 
 
 
